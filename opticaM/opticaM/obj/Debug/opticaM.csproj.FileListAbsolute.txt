@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\bin\Debug\opticaM.exe.config
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\bin\Debug\opticaM.exe
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\bin\Debug\opticaM.pdb
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.Form1.resources
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.exe
+C:\Users\samue\OneDrive\Escritorio\Samuelito\opticaM\opticaM\obj\Debug\opticaM.pdb
